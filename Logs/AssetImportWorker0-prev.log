@@ -1,0 +1,147 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'ru' Physical Memory: 5611 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Ynity/CosmoTrip
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49960
+Successfully changed project path to: E:/Ynity/CosmoTrip
+E:/Ynity/CosmoTrip
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 183.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Ynity/CosmoTrip/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6520G (ID=0x9647)
+    Vendor:   
+    VRAM:     1507 MB
+    Driver:   15.200.1062.1004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012067 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 173.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.418 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002867 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 163.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.098 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.37 seconds
+Refreshing native plugins compatible for Editor in 1.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1825 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.7 MB.
+System memory in use after: 104.7 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 11.220979 ms (FindLiveObjects: 1.919867 ms CreateObjectMapping: 0.196044 ms MarkObjects: 8.684134 ms  DeleteObjects: 0.412622 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Models/MedKit.png
+  artifactKey: Guid(5cc84039d0a77764cb77a0669f235dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/MedKit.png using Guid(5cc84039d0a77764cb77a0669f235dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3287577646b57c96647b9987bc41273b') in 0.960302 seconds
+  Import took 1.000469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000751 seconds.
+  path: Assets/Models/HealthUp.png
+  artifactKey: Guid(f4c0edf24c090274495628897ce9b873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HealthUp.png using Guid(f4c0edf24c090274495628897ce9b873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f148a5b011735d2c76f35e9994cd4db') in 0.100383 seconds
+  Import took 0.212933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000711 seconds.
+  path: Assets/Models/RadialDamage.png
+  artifactKey: Guid(9788c4add7e06284cbc344373c088f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RadialDamage.png using Guid(9788c4add7e06284cbc344373c088f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99c824f33509a39dfb8646ec92cf240') in 0.070877 seconds
+  Import took 0.103305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/Models/Asteroid.png
+  artifactKey: Guid(25cb6fc7f7a6391438590eff9ecb9e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Asteroid.png using Guid(25cb6fc7f7a6391438590eff9ecb9e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95eb3b284f82a93ebb817cca9207d17d') in 0.088378 seconds
+  Import took 0.112603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Models/Shield.png
+  artifactKey: Guid(a158680bf710cce4aabf732cb60964af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Shield.png using Guid(a158680bf710cce4aabf732cb60964af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52aac5283572f1394bc1e0a58357aa1') in 0.062558 seconds
+  Import took 0.082962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/Models/DamageUp.png
+  artifactKey: Guid(e9b3b457e749cc24e962b02711f601b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/DamageUp.png using Guid(e9b3b457e749cc24e962b02711f601b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8489814f006b81bfd8ef9238b03598ab') in 0.054966 seconds
+  Import took 0.075910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/Models/Shop.png
+  artifactKey: Guid(c1b006860ea291b4fbb69f95d31d9e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Shop.png using Guid(c1b006860ea291b4fbb69f95d31d9e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c97513458e088b455580f47d9970eef') in 0.079393 seconds
+  Import took 0.126574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001638 seconds.
+  path: Assets/Models/sputnic.png
+  artifactKey: Guid(1f56d289617925149aa738fb2de0a5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/sputnic.png using Guid(1f56d289617925149aa738fb2de0a5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66acac61d3dc35c0dd7fdfc19b0d2f6f') in 0.076599 seconds
+  Import took 0.100540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/Models/ShootingSpeedUp.png
+  artifactKey: Guid(54fcbfa1f625988408e51675335c047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/ShootingSpeedUp.png using Guid(54fcbfa1f625988408e51675335c047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60976d7c8d959435ecdcdd420f2ac5bc') in 0.059678 seconds
+  Import took 0.092100 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
